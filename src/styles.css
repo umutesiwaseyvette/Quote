@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+button{
+    background-color:lightsteelblue;
+    padding: 10px;
+}
+input{
+    background-color: bisque;
+    padding: 10px 10px;
+    margin: 10px 10px;
+}
+.container{
+    text-align: center;
+}
+.jumbotron{
+    text-align: center;
+}
+body{
+    background-color: powderblue;
+}
