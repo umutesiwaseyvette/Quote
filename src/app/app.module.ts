@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { FormComponent } from './form/form.component';
 import { DetailsComponent } from './details/details.component';
 import { QuoteComponent } from './quote/quote.component';
+import {QuotesComponent} from './quotes/quotes.component'
 // import { HighlightDirective } from './highlight.directive';
 
 
@@ -15,6 +16,7 @@ import { QuoteComponent } from './quote/quote.component';
     FormComponent,
     DetailsComponent,
     QuoteComponent,
+    QuotesComponent,
     // HighlightDirective
   ],
   imports: [
